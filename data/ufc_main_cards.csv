@@ -1,0 +1,16 @@
+event,year,fighter_a,fighter_b,winner,loser,method_category,method_detail,round,summary
+UFC 100,2009,Brock Lesnar,Frank Mir,Brock Lesnar,Frank Mir,KO/TKO,TKO punches,2,Brock Lesnar가 Frank Mir를 2라운드 TKO로 꺾으며 헤비급 챔피언 위상을 강화한 경기입니다.
+UFC 194,2015,Conor McGregor,Jose Aldo,Conor McGregor,Jose Aldo,KO/TKO,KO punch,1,Conor McGregor가 Jose Aldo를 경기 시작 직후 KO로 이기며 페더급 역사에 남은 장면을 만들었습니다.
+UFC 196,2016,Conor McGregor,Nate Diaz,Nate Diaz,Conor McGregor,Submission,Rear-naked choke,2,Nate Diaz가 Conor McGregor를 2라운드 서브미션으로 꺾으며 큰 이변을 만들었습니다.
+UFC 205,2016,Conor McGregor,Eddie Alvarez,Conor McGregor,Eddie Alvarez,KO/TKO,TKO punches,2,Conor McGregor가 Eddie Alvarez를 꺾고 두 체급 챔피언에 오른 상징적인 경기입니다.
+UFC 217,2017,Michael Bisping,Georges St-Pierre,Georges St-Pierre,Michael Bisping,Submission,Rear-naked choke,3,Georges St-Pierre가 복귀전에서 Michael Bisping을 꺾고 미들급 타이틀을 차지했습니다.
+UFC 229,2018,Khabib Nurmagomedov,Conor McGregor,Khabib Nurmagomedov,Conor McGregor,Submission,Neck crank,4,Khabib Nurmagomedov가 Conor McGregor를 4라운드 서브미션으로 제압한 초대형 메인 이벤트입니다.
+UFC 245,2019,Kamaru Usman,Colby Covington,Kamaru Usman,Colby Covington,KO/TKO,TKO punches,5,Kamaru Usman이 Colby Covington을 5라운드 TKO로 꺾은 치열한 웰터급 타이틀전입니다.
+UFC 261,2021,Kamaru Usman,Jorge Masvidal,Kamaru Usman,Jorge Masvidal,KO/TKO,KO punch,2,Kamaru Usman이 Jorge Masvidal을 강력한 펀치로 KO시키며 타이틀 방어에 성공했습니다.
+UFC 278,2022,Kamaru Usman,Leon Edwards,Leon Edwards,Kamaru Usman,KO/TKO,KO head kick,5,Leon Edwards가 5라운드 헤드킥 KO로 Kamaru Usman을 꺾은 극적인 역전 경기입니다.
+UFC 280,2022,Charles Oliveira,Islam Makhachev,Islam Makhachev,Charles Oliveira,Submission,Arm-triangle choke,2,Islam Makhachev가 Charles Oliveira를 2라운드 서브미션으로 꺾고 라이트급 정상에 올랐습니다.
+UFC 281,2022,Israel Adesanya,Alex Pereira,Alex Pereira,Israel Adesanya,KO/TKO,TKO punches,5,Alex Pereira가 Israel Adesanya를 5라운드 TKO로 꺾으며 미들급 타이틀을 차지했습니다.
+UFC 285,2023,Jon Jones,Ciryl Gane,Jon Jones,Ciryl Gane,Submission,Guillotine choke,1,Jon Jones가 헤비급 데뷔전에서 Ciryl Gane을 1라운드 서브미션으로 꺾었습니다.
+UFC 286,2023,Leon Edwards,Kamaru Usman,Leon Edwards,Kamaru Usman,Decision,Majority decision,5,Leon Edwards가 Kamaru Usman과의 3차전에서 판정승을 거두며 타이틀을 지켰습니다.
+UFC 290,2023,Alexander Volkanovski,Yair Rodriguez,Alexander Volkanovski,Yair Rodriguez,KO/TKO,TKO punches,3,Alexander Volkanovski가 Yair Rodriguez를 3라운드 TKO로 꺾고 페더급 챔피언의 강함을 보여줬습니다.
+UFC 300,2024,Alex Pereira,Jamahal Hill,Alex Pereira,Jamahal Hill,KO/TKO,KO punch,1,Alex Pereira가 Jamahal Hill을 1라운드 KO로 꺾으며 UFC 300 메인이벤트를 장식했습니다.
