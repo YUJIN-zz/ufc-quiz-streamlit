@@ -26,12 +26,15 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
     if st.button("🔥 회원가입", use_container_width=True):
+        print("[LOG] 메인 화면: 회원가입 버튼 클릭")
         st.switch_page("pages/1_회원가입.py")
 
 with col2:
     if st.button("🥊 로그인", use_container_width=True):
+        print("[LOG] 메인 화면: 로그인 버튼 클릭")
         st.switch_page("pages/2_로그인.py")
 
 with col3:
     if st.button("🏆 퀴즈 시작", use_container_width=True):
+        print("[LOG] 메인 화면: 퀴즈 시작 버튼 클릭")
         st.switch_page("pages/3_퀴즈.py")
